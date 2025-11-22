@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+header a{
+    background-color: white;
+    text-decoration: none;
+    
+}
+
+footer{
+    background-color: rgb(254, 160, 239);
+    padding: 10px;
+}
+
+footer p{
+    background-color: azure;
+    padding: 5px;
+}
+
+nav{
+    border: 2px solid rgb(164, 164, 164);
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(164, 164, 164);
+}
+
+.product{
+    background-color: rgb(224, 144, 52);
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+h2{
+    color: blue;
+    font-size: 20px;
+}
